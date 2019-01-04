@@ -11,6 +11,8 @@ Possible questions to ask yourself when creating valuable daily entries:
 * What could you do to improve the situation?
 
 
+
+
     require 'daily_reflection'
 
 
@@ -37,6 +39,7 @@ Possible questions to ask yourself when creating valuable daily entries:
 
     dr = DailyReflection.new s, debug: true
     puts dr.to_s
+
 
 Output:
 
