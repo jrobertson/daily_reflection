@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'daily_reflection'
-  s.version = '0.1.0'
+  s.version = '0.1.1'
   s.summary = 'Used to keep a personal journal of things worth reflecting ' + 
       'upon on a daily basis. Entries are retrieved and stored in a ' + 
       'markdown file with date headings created in reverse chronological ' +
